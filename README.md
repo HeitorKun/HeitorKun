@@ -6,7 +6,10 @@ Some ARKit videos of mine: https://drive.google.com/drive/folders/1fnXfPsyyKyjCI
 
 Check out some of my projects:  
 
-Voyage: https://apps.apple.com/ua/app/voyage-plan/id1629997994
+Voyage: https://apps.apple.com/ua/app/voyage-plan/id1629997994 
+Space Void: https://apps.apple.com/ua/app/space-void/id1588378806
+
+
 
 
 
