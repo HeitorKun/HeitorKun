@@ -9,6 +9,9 @@ Some ARKit videos of mine: [Link to drive](https://drive.google.com/drive/folder
 
 Currently learning some Node along with IOS and practicing some LeetCode
 
+
+https://github-readme-streak-stats.herokuapp.com/?user=HeitorKun
+
 | Language | Level |
 | ------------- | ------------- |
 | English | C1 |
