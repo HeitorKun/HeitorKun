@@ -9,7 +9,7 @@ Some ARKit videos of mine: [Link to drive](https://drive.google.com/drive/folder
 
 Currently learning some Node along with IOS and practicing some LeetCode
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorKun&show_icons=true&theme=radical)
+https://github-readme-streak-stats.herokuapp.com/?user=HeitorKun
 
 | Language | Level |
 | ------------- | ------------- |
