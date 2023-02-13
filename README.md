@@ -8,7 +8,8 @@ Check out some of my projects on the App Store:
 Some ARKit videos of mine: [Link to drive](https://drive.google.com/drive/folders/1fnXfPsyyKyjCIl4GTnihEdp56Rk8rA1M?usp=share_link). 
 
 Currently learning some Node along with IOS and practicing some LeetCode
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorKun&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 | Language | Level |
 | ------------- | ------------- |
