@@ -9,14 +9,7 @@ Some ARKit videos of mine: [Link to drive](https://drive.google.com/drive/folder
 
 Currently learning some Node along with IOS and practicing some LeetCode
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-https://github-readme-streak-stats.herokuapp.com/?user=HeitorKun
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorKun&show_icons=true&theme=radical)
 
 | Language | Level |
 | ------------- | ------------- |
