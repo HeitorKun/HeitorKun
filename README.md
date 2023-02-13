@@ -7,7 +7,7 @@ Check out some of my projects on the App Store:
 
 Some ARKit videos of mine: [Link to drive](https://drive.google.com/drive/folders/1fnXfPsyyKyjCIl4GTnihEdp56Rk8rA1M?usp=share_link). 
 
-Currently learning some Node and practicing some LeetCode
+Currently learning some Node along with IOS and practicing some LeetCode
 
 | Language | Level |
 | ------------- | ------------- |
