@@ -1,4 +1,4 @@
-# IOS Developer
+
 #### Ex Apple Developer Academy Alumni
 
 Check out some of my projects on the App Store:  
