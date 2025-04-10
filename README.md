@@ -1,5 +1,4 @@
 
-#### Ex Apple Developer Academy Alumni
 
 Check out some of my projects on the App Store:  
 [Voyage](https://apps.apple.com/ua/app/voyage-plan/id1629997994)  
@@ -7,9 +6,7 @@ Check out some of my projects on the App Store:
 
 Some ARKit videos of mine: [Link to drive](https://drive.google.com/drive/folders/1fnXfPsyyKyjCIl4GTnihEdp56Rk8rA1M?usp=share_link). 
 
-Currently learning some Node along with IOS and practicing some LeetCode
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Currently working on ADP
 
 | Language | Level |
 | ------------- | ------------- |
